@@ -1,0 +1,8 @@
+# ZJP, 2017/18
+
+## Dokumentacja
+
+* http://ruby-doc.org[Help and documentation for the Ruby programming language]
+* http://bundler.io/pl/[Bundler]
+* http://asciidoctor.org[Asciidoctor], http://asciidoctor.org/docs/[Documentation]
+* http://www.codequizzes.com/ruby[Learn Ruby (Quizzes)]
